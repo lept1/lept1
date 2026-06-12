@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Alessandro!
 
-<!--
-**lept1/lept1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer & physicist
+Welcome to my GitHub profile! I'm passionate about building scalable data architectures, exploring new technologies, and contributing to open-source projects. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, R, C++, Fortran, SQL |
+| **Data Engineering** | Apache Spark, Apache Airflow, Kafka, dbt, Hadoop |
+| **Data Science & ML** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, MLflow |
+| **Databases & Warehouses** | PostgreSQL, MongoDB, Snowflake, BigQuery, Redis |
+| **Cloud & DevOps** | AWS (S3, EC2, EMR), Docker, Git, CI/CD |
+
+---
+
+### 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=github_username&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github_username&layout=compact&theme=radial&hide_border=true)
+
+---
+
+### Current Focus & Projects
+
+- 🔭 **Currently working on:** An end-to-end ETL pipeline that processes real-time streaming data.
+- 🌱 **Learning:** Data Lakehouse architectures (Delta Lake, Apache Iceberg) and advanced MLOps practices.
+- 💬 **Ask me about:** Anything you want :D
+- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/alessandro-dell-orto)
+
+---
+
+### ⚡ Fun Fact
+When I'm not coding, you can find me swimming, playing chess, trying to learn Esperanto, or drinking yet another espresso!
