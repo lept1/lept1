@@ -19,8 +19,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable data archit
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lept1&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lept1&layout=compact&theme=radial&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lept1&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lept1)
 
 ---
 
