@@ -2,6 +2,8 @@
 
 ![felix the cat](felix.gif)
 
+*Author of the gif above: [Tomas Brunsdon](https://giphy.com/tomasbrunsdon)*
+
 ### Data Engineer & physicist
 Welcome to my GitHub profile! I'm passionate about building scalable data architectures, exploring new technologies, and contributing to open-source projects. 
 
