@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable data archit
 
 ### 📈 GitHub Stats
 
-![felix the cat]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif))
+![felix the cat](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif)
 
 ---
 
