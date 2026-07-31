@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Alessandro!
 
+![felix the cat](felix.gif)
+
 ### Data Engineer & physicist
 Welcome to my GitHub profile! I'm passionate about building scalable data architectures, exploring new technologies, and contributing to open-source projects. 
 
@@ -14,12 +16,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable data archit
 | **Data Science & ML** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, MLflow |
 | **Databases & Warehouses** | PostgreSQL, MongoDB, Snowflake, BigQuery, Redis |
 | **Cloud & DevOps** | AWS, GCP, Docker, Git, CI/CD |
-
----
-
-### 📈 GitHub Stats
-
-![felix the cat](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif)
 
 ---
 
