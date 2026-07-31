@@ -13,15 +13,13 @@ Welcome to my GitHub profile! I'm passionate about building scalable data archit
 | **Data Engineering** | Apache Spark, Apache Airflow, Kafka, dbt, Hadoop |
 | **Data Science & ML** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, MLflow |
 | **Databases & Warehouses** | PostgreSQL, MongoDB, Snowflake, BigQuery, Redis |
-| **Cloud & DevOps** | AWS (S3, EC2, EMR), Docker, Git, CI/CD |
+| **Cloud & DevOps** | AWS, GCP, Docker, Git, CI/CD |
 
 ---
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lept1)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lept1)
+![felix the cat]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://mir-s3-cdn-cf.behance.net/project_modules/source/5eeea355389655.59822ff824b72.gif))
 
 ---
 
